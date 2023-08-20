@@ -18,28 +18,21 @@
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
         },
         {
-            "name": "leetswap.finance",
-            "address": "0x987a758b221Eabd262CAE4fbb4D75C579275D8AA",
-            "symbol": "LEET",
-            "decimals": 18,
+            "name": "Artificially Intelligent Dick Suckership",
+            "address": "0x3B5Abb501e3fFEF49132BC269bdfF6D81dEB3539",
+            "symbol": "AIDS",
+            "decimals": 9,
             "chainId": 84531,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+            "logoURI": "https://www.pngitem.com/pimgs/m/42-428402_9-percent-of-diagnosis-hiv-aids-logo-png.png"
         },
         {
-            "name": "Bald",
-            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
-            "symbol": "BALD",
+            "name": "Lou's big 10 inch",
+            "address": "0x2F85706Fa0C09ed9a500cfb9905a124d58C17d4f",
+            "symbol": "LOU10",
             "decimals": 18,
             "chainId": 84531,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg"
-        },
-        {
-            "name": "Axelar Wrapped USDC",
-            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-            "symbol": "axlUSDC",
-            "decimals": 6,
-            "chainId": 84531,
-            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+            "logoURI": "https://cdn.iconscout.com/icon/premium/png-256-thumb/penis-1721922-1466040.png"
         }
+        
     ]
 }
