@@ -8,7 +8,14 @@
         "patch": 0
     },
     "tokens": [
-     
+            {
+            "name": "DexBased.com",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "DBCOM",
+            "decimals": 18,
+            "chainId": 84531,
+            "logoURI": "https://dexbased.com/images/logo.png"
+        },
         {
             "name": "Wrapped ETH",
             "address": "0x4200000000000000000000000000000000000006",
