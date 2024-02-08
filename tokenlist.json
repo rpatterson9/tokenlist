@@ -9,11 +9,11 @@
     },
     "tokens": [
             {
-            "name": "DexBased.com",
-            "address": "0x6ae1c78CaCB230F904cDc85E74454aDa0d53B807",
-            "symbol": "DBCOM",
+            "name": "DexToken",
+            "address": "0xf570E0D2C7B7eA634A602039D2b3833B51A65EBC",
+            "symbol": "DEX",
             "decimals": 18,
-            "chainId": 84531,
+            "chainId": 8453,
             "logoURI": "https://dexbased.com/images/logo.png"
         },
         {
